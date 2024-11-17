@@ -1,0 +1,11 @@
+email,username,source,leaked_url,mobile_number,full_name,credit_card
+johndoe@gmail.com,johndoe1,WebsiteLeak,https://example.com,8921020121,John Doe,4.11111E+15
+janedoe@yahoo.com,janedoe123,DarkWebLeak,https://darkexample.com,8991020121,Jane Doe,5.5E+15
+mike123@hotmail.com,mikemike01,BreachDB,https://mikeleak.com,8021020121,Mike Johnson,3.4E+14
+alice99@outlook.com,alice99_dark,DarkWebLeak,https://alicelink.com,8991020121,Alice Smith,6.011E+15
+bobs_burger@aol.com,bob12345,DarkLeaks,https://burger.com,7921020121,Bob Brown,3E+13
+charlie.m@icloud.com,charlie_m,EmailLeak,https://charlieleak.com,6921020121,Charlie McDonald,3.53011E+15
+emily.smith@gmail.com,emilysmith88,SecurityBreach,https://emilyleak.com,5921020121,Emily Smith,4.02401E+15
+robert.jones@yahoo.com,robertjones_1,DarkWebLeak,https://robertjones.com,8921028121,Robert Jones,5.10511E+15
+david.wilson@hotmail.com,davidwilson123,WebsiteLeak,https://davidhack.com,8921026721,David Wilson,6.01151E+15
+lisa.carter@outlook.com,lisacarter2,BreachDB,https://lisabreach.com,8956820121,Lisa Carter,6.759E+15
